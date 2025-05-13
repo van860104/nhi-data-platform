@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # nhi-data-platform
 =======
 # 健保資料自動分析與可視化平台（含 MCP 架構）
+=======
+## 健保資料自動分析與可視化平台（含 MCP 架構）
+>>>>>>> 063d859 (更新 README 說明內容)
 
 > 本專案為以 GCP 為基礎，整合 Apache Airflow、n8n、BigQuery 與 Looker Studio 的健保資料自動分析平台。並進一步導入 MCP（Model–Context–Protocol）架構，強化生成式 AI 對資料的摘要與解釋能力。
 
